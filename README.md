@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.jpg" alt="FandomVerse Logo" width="160px">
+  <img src="logo.jpg" alt="FandomVerse Logo" width="160px">
 </p>
 
 # ✦ FANDOMVERSE — Advanced Multiverse Portal
